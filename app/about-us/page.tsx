@@ -9,5 +9,3 @@ export default function AboutUs() {
     </div>
   );
 }
-
-export const runtime = "edge";

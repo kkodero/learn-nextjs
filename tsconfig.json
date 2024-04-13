@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/movie-vide0otsx"  ],
   "exclude": [
     "node_modules"
   ]
